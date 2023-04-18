@@ -1,0 +1,33 @@
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(160) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(213) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(276) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(329) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(392) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(424) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(450) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(487) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(487) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(577) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(630) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(662) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(685) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(714) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(714) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(788) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(871) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(981) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1023) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1023) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1035) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1053) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1105) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1158) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1219) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+C:\Users\uSER\Documents\Scripts Samp\GM TOKCIK\GAMEMODE SYNTAX\pawno\include\easy-mysql.inc(1237) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MYSQL_DEFAULT_HANDLE"
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
